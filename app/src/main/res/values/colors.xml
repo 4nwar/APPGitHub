@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="black">#FF000000</color>
+    <!--    color git theme-->
+    <color name="Git_primary">#161b22</color>
+    <color name="Git_sec">#0D1117</color>
+    <color name="Git_line">#C9D1D9</color>
+    <color name="Git_userfont">#F0F6FC</color>
+    <color name="Git_user1font">#58A6FF</color>
+
+</resources>
